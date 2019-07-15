@@ -1,0 +1,2 @@
+# .github
+Root configuration repository.
